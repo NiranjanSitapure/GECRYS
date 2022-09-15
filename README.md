@@ -1,0 +1,2 @@
+# GECRYS
+Generalized Crystallization Solver (GECRYS) is a low-code and fast crystallization modeling and control framework specifically designed to provide easy simulation of various crystallization systems. As an example, two case studies along with their Jupyter files are included. Furthermore, a model predictive controller (MPC) module is demonstrated for controlling the crystal size and distribution. 
